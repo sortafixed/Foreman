@@ -1,0 +1,70 @@
+1695068748506	geckodriver	INFO	Listening on 127.0.0.1:52516
+1695068749014	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/88/v_d_h0md3s596wx25w3yrqq40000gr/T/rust_mozprofileVRxgjJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695068749425	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695068749955	Marionette	INFO	Listening on port 52534
+WebDriver BiDi listening on ws://127.0.0.1:52517
+Read port: 52534
+1695068750192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52517/devtools/browser/0968efee-42b4-4acc-b7a5-316e396c69aa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dashboard.foreman.mn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dashboard.foreman.mn."
+1695068759626	Marionette	INFO	Stopped listening on port 52534
+1695068843559	geckodriver	INFO	Listening on 127.0.0.1:53029
+1695068844068	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/88/v_d_h0md3s596wx25w3yrqq40000gr/T/rust_mozprofileXIdeB7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695068844478	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695068844949	Marionette	INFO	Listening on port 53041
+WebDriver BiDi listening on ws://127.0.0.1:53030
+Read port: 53041
+1695068845162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53030/devtools/browser/dc0d4b06-fdff-4266-8ba2-e14e59efbd53
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dashboard.foreman.mn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dashboard.foreman.mn."
+1695068849595	Marionette	INFO	Stopped listening on port 53041
+1695068908697	geckodriver	INFO	Listening on 127.0.0.1:53503
+1695068909204	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/88/v_d_h0md3s596wx25w3yrqq40000gr/T/rust_mozprofiletaDrFY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695068909623	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695068910102	Marionette	INFO	Listening on port 53515
+WebDriver BiDi listening on ws://127.0.0.1:53504
+Read port: 53515
+1695068910305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53504/devtools/browser/5b93f923-4db6-4c31-a086-a63b54dcf521
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dashboard.foreman.mn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dashboard.foreman.mn."
+1695068914377	Marionette	INFO	Stopped listening on port 53515
+1695070542790	geckodriver	INFO	Listening on 127.0.0.1:60404
+1695070543320	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/88/v_d_h0md3s596wx25w3yrqq40000gr/T/rust_mozprofile36xC5B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695070543886	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695070544356	Marionette	INFO	Listening on port 60416
+WebDriver BiDi listening on ws://127.0.0.1:60405
+Read port: 60416
+1695070544566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60405/devtools/browser/b297f2e7-a543-4890-96ba-677a4c09a7e4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dashboard.foreman.mn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dashboard.foreman.mn."
+1695070553899	Marionette	INFO	Stopped listening on port 60416
+1695070993110	geckodriver	INFO	Listening on 127.0.0.1:62397
+1695070993617	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/88/v_d_h0md3s596wx25w3yrqq40000gr/T/rust_mozprofile7ouPsV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695070994013	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695070994484	Marionette	INFO	Listening on port 62413
+WebDriver BiDi listening on ws://127.0.0.1:62398
+Read port: 62413
+1695070994702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62398/devtools/browser/2f6968c3-ab7a-46b6-a411-3c3556ae7d1f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dashboard.foreman.mn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dashboard.foreman.mn."
+1695071003674	Marionette	INFO	Stopped listening on port 62413
