@@ -18,7 +18,7 @@ def test_mytest():
     user_menu_dropdown = driver.find_element(By.ID, "dd-user-menu")
     user_menu_dropdown.click()
 
-    logout_selection = driver.find_element(By.XPATH, "/html/body/header/div/div/div/div[1]/div[4]/div/a[7]")
+    logout_selection = driver.find_element(By.CLASS_NAME, ".float-right")
     logout_selection.click()
     time.sleep(3)
 
